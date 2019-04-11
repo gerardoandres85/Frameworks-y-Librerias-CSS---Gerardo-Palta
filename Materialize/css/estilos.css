@@ -1,0 +1,62 @@
+body{
+  background: url("../img/fondo.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.header{
+  margin-top: 20px;
+}
+
+.logo{
+  width: 150px;
+  border-radius: 10px 10px;
+}
+
+.menu{
+  margin: 1px;
+}
+
+.slogan h4{
+  color: #c62828;
+  font-style: italic;
+}
+
+.social_icons ul li{
+  padding-bottom: 10px;
+}
+
+.isla{
+  padding-right: 10px;
+}
+
+.autor{
+  width: 150px;
+}
+
+.form{
+  color: white;
+  font-size: 16px;
+}
+
+@media (min-width: 600px){
+  .btn_enviar{
+    text-align: right;
+  }
+  .btn_enviar a{
+    color: red;
+    font-weight: bold;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 600px){
+  .btn_enviar{
+    text-align: center;
+  }
+  .btn_enviar a{
+    color: red;
+    font-weight: bold;
+  }
+}
