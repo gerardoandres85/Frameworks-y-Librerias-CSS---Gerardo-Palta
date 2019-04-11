@@ -1,0 +1,79 @@
+body{
+  background: url('../img/fondo.jpg');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+.slogan{
+  border-right: 1px solid;
+  border-right-style: inset;
+}
+
+.slogan h2, .slogan h5{
+  color: white;
+}
+
+.container{
+  background-color: #BDB76B;
+  opacity: 0.9;
+}
+
+.busqueda{
+  background-color: #FFE4B5;
+}
+
+.post{
+  background-color: #FFEFD5
+}
+
+.menu li{
+  border: 1px solid;
+  border-color: #FF8C00;
+}
+
+.text-color{
+  color: #FF8C00;
+}
+
+.list-group li{
+  padding: 10px;
+}
+
+.favoritos{
+  margin-top: 25px;
+}
+
+.list-group {
+  overflow: hidden;
+}
+
+.list-group-item {
+  padding: 1rem;
+  border-bottom: 1px solid #e6e6e6;
+}
+
+.list-group-item:hover, .list-group-item:focus {
+  background-color: #e6e6e6;
+}
+
+.historial{
+  margin-top:20px;
+}
+
+.historial h5{
+  color: #FF8C00;
+}
+
+.user{
+  width: 80px;
+}
+
+.fieldset{
+  border-radius: 10px 10px;
+}
+
+.button{
+  background-color: #FF8C00;
+}
