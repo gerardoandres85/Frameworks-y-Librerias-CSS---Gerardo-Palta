@@ -1,0 +1,68 @@
+body{
+  background-color: #CD5C5C;
+}
+
+.container{
+  background-color: white;
+
+}
+
+.menu{
+  text-align: center;
+}
+
+.menu-item{
+  color: black;
+}
+
+.menu-item:hover{
+    background-color: #FFA500;
+    color: black;
+}
+
+.img-menu:hover{
+  text-decoration: none;
+}
+
+.logo{
+  width:100px;
+}
+
+.social_icons{
+  padding-top: 60px;
+}
+
+.item{
+  text-align: center;
+  padding-top: 15px
+}
+
+.menu{
+  background-color: #FF7F50;
+}
+
+.post{
+  margin-top:20px;
+}
+
+.comment{
+  margin-top: 20px;
+}
+
+.principal{
+  margin-top: 20px;
+}
+
+.search{
+  margin-top: 20px;
+}
+
+.img-menu{
+  -webkit-filter:grayscale(30%);
+  filter: grayscale(30%);
+}
+
+.img-menu:hover{
+  -webkit-filter:grayscale(1%);
+  filter: grayscale(1%);
+}
