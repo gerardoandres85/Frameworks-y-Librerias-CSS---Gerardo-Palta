@@ -51,7 +51,7 @@ body{
   }
 }
 
-@media (min-width: 320px) and (max-width: 600px){
+@media (min-width: 320px) and (max-width: 992px){
   .btn_enviar{
     text-align: center;
   }
